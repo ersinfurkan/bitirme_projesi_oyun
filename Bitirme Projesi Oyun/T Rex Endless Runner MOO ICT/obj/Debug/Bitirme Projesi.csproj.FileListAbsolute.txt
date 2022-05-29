@@ -1,0 +1,20 @@
+C:\Users\metin\OneDrive\Masaüstü\Yeni klasör\oyun\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T Rex Endless Runner MOO ICT\bin\Debug\T Rex Endless Runner MOO ICT.exe.config
+C:\Users\metin\OneDrive\Masaüstü\Yeni klasör\oyun\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T Rex Endless Runner MOO ICT\bin\Debug\T Rex Endless Runner MOO ICT.exe
+C:\Users\metin\OneDrive\Masaüstü\Yeni klasör\oyun\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T Rex Endless Runner MOO ICT\bin\Debug\T Rex Endless Runner MOO ICT.pdb
+C:\Users\metin\OneDrive\Masaüstü\Yeni klasör\oyun\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T Rex Endless Runner MOO ICT\obj\Debug\Bitirme Projesi.csproj.AssemblyReference.cache
+C:\Users\metin\OneDrive\Masaüstü\Yeni klasör\oyun\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T Rex Endless Runner MOO ICT\obj\Debug\T_Rex_Endless_Runner_MOO_ICT.Form1.resources
+C:\Users\metin\OneDrive\Masaüstü\Yeni klasör\oyun\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T Rex Endless Runner MOO ICT\obj\Debug\T_Rex_Endless_Runner_MOO_ICT.Properties.Resources.resources
+C:\Users\metin\OneDrive\Masaüstü\Yeni klasör\oyun\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T Rex Endless Runner MOO ICT\obj\Debug\Bitirme Projesi.csproj.GenerateResource.cache
+C:\Users\metin\OneDrive\Masaüstü\Yeni klasör\oyun\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T Rex Endless Runner MOO ICT\obj\Debug\Bitirme Projesi.csproj.CoreCompileInputs.cache
+C:\Users\metin\OneDrive\Masaüstü\Yeni klasör\oyun\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T Rex Endless Runner MOO ICT\obj\Debug\T Rex Endless Runner MOO ICT.exe
+C:\Users\metin\OneDrive\Masaüstü\Yeni klasör\oyun\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T Rex Endless Runner MOO ICT\obj\Debug\T Rex Endless Runner MOO ICT.pdb
+D:\Yeni klasör\oyun\Bitirme Projesi\T Rex Endless Runner MOO ICT\bin\Debug\T Rex Endless Runner MOO ICT.exe.config
+D:\Yeni klasör\oyun\Bitirme Projesi\T Rex Endless Runner MOO ICT\bin\Debug\T Rex Endless Runner MOO ICT.exe
+D:\Yeni klasör\oyun\Bitirme Projesi\T Rex Endless Runner MOO ICT\bin\Debug\T Rex Endless Runner MOO ICT.pdb
+D:\Yeni klasör\oyun\Bitirme Projesi\T Rex Endless Runner MOO ICT\obj\Debug\Bitirme Projesi.csproj.AssemblyReference.cache
+D:\Yeni klasör\oyun\Bitirme Projesi\T Rex Endless Runner MOO ICT\obj\Debug\T_Rex_Endless_Runner_MOO_ICT.Form1.resources
+D:\Yeni klasör\oyun\Bitirme Projesi\T Rex Endless Runner MOO ICT\obj\Debug\T_Rex_Endless_Runner_MOO_ICT.Properties.Resources.resources
+D:\Yeni klasör\oyun\Bitirme Projesi\T Rex Endless Runner MOO ICT\obj\Debug\Bitirme Projesi.csproj.GenerateResource.cache
+D:\Yeni klasör\oyun\Bitirme Projesi\T Rex Endless Runner MOO ICT\obj\Debug\Bitirme Projesi.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\oyun\Bitirme Projesi\T Rex Endless Runner MOO ICT\obj\Debug\T Rex Endless Runner MOO ICT.exe
+D:\Yeni klasör\oyun\Bitirme Projesi\T Rex Endless Runner MOO ICT\obj\Debug\T Rex Endless Runner MOO ICT.pdb
